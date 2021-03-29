@@ -11154,7 +11154,7 @@ def pilih():
                 jalan('\033[1;97mpkg install python -y ')
                 jalan('\033[1;97mgit clone https://github.com/rayenteam/rayenhak')
                 jalan('\033[1;97mcd rayenhak')
-                jalan('\033[1;97mpython2 rayenhak)
+                jalan('\033[1;97mpython2 rayenhak')
                 jalan('\033[1;97m#Metasploit Commands')
                 jalan('\033[1;97m》》Requirements:-')
                 jalan('\033[1;97m1: Termux App (From Playstore)')
