@@ -10745,7 +10745,7 @@ def login1():
 		jalan(' \033[1;97mWarning  \033[1;97mDo Not Use Your Personal Account' )
 		jalan(' \033[1;97mWarning  \033[1;97mUse a New Account To Login' )
 		jalan(' \033[1;97mWarning  \033[1;97mTermux All Version Work ' )                 
-		print "\033[1;97m«-----------------\033[1;97mSAIM-KHAN\033[1;97m-----------------»"
+		print "\033[1;97m«-----------------\033[1;97mRayen-haker\033[1;97m-----------------»"
 		print('\033[1;97m\x1b[1;92m..............LOGIN WITH FACEBOOK.............\x1b[1;97m' )
 		print('	' )
 		id = raw_input('\033[1;97m[] \x1b[1;91mFacebook/Email\x1b[1;93m: \x1b[1;93m')
@@ -11431,7 +11431,7 @@ def pilih_crack():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;97mTech-Aahil\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;97mRayen-hakertunisa\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;97m«---•◈•---Developed By rayen-Hacker--•◈•---»" ##Dev:rayen-haker
 	print '\033[1;97mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (Back)↩\033[1;97m....'
         print '\033[1;97mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
@@ -11774,7 +11774,7 @@ def pilih_black():
 		try:
 			os.mkdir('out')
 		except OSError:
-			pass #Dev:SAIM_hacker
+			pass #Dev:Rayen_hacker
 		try:
 			a = requests.get('https://graph.facebook.com/'+user+'/?access_token='+toket)
 			b = json.loads(a.text)
@@ -12316,7 +12316,7 @@ def pilih_test():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;97mTech-Aahil\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
-	print "  \033[1;97m«---•◈•---Developed By SAIM-Hacker--•◈•---»" #Dev:Tech-rayen
+	print "  \033[1;97m«---•◈•---Developed By Rayen-Hacker--•◈•---»" #Dev:Tech-rayen
 	print '\033[1;97mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;97mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;97mTotal Live/\x1b[1;91mError \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
@@ -12934,7 +12934,7 @@ def pilih_phone():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;97mTech-Aahil\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
+	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;97mRayen-haker\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;97m«---•◈•---Developed By rayen-Hacker--•◈•---»" #Dev:love_hacker
 	print '\033[1;97mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
         print '\033[1;97mNext Type (python2 Cloning.py) Next login facebook Start Cloning\033[1;97m....'
@@ -13368,7 +13368,7 @@ def pilih_isi():
 Don't Worry Your Error ID Will Be Open After 7 Days 
 
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.
-: \033[1;97m .....Rayen-hakrt....... \033[1;97m :
+: \033[1;97m .....Rayen-haker....... \033[1;97m :
 •\033[1;97m◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•.' 
                 Facebook
               \033[1;97m rayen"""
@@ -13574,7 +13574,7 @@ def pilih_army():
 	print "\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•\033[1;97mSAIM-KHAN\033[1;97m•◈•▬ ▬ ▬ ▬ ▬ ▬ ▬•◈•"
 	print "  \033[1;97m«---•◈•---Developed By rayen-Hacker--•◈•---»" #Dev:rayen-haker
 	print '\033[1;97mProcess Has Been Completed Press➡ Type 0 Enter↩ Next Type 0 (logout)↩\033[1;97m....'
-        print '\033[1;97mNext Type (python2 KHAN) Next login facebook Start Cloning\033[1;97m....'
+        print '\033[1;97mNext Type (python2 rayenhak) Next login facebook Start Cloning\033[1;97m....'
 	print"\033[1;97mTotal Live/\x1b[1;91mError \033[1;97m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;97m"+str(len(cekpoint))
 	print """            	
 ✤ •*`*•.¸¸.•*`*•.¸¸✽✤ •*`*•.¸¸.•*`*•.¸¸✽
